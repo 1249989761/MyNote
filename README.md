@@ -1,0 +1,2 @@
+# MyNote
+MagicBook
